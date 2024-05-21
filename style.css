@@ -1,0 +1,59 @@
+body {
+  min-height: 2000px;
+}
+body nav {
+  background-color: #124076;
+}
+body .navbar {
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  top: 0;
+  margin-bottom: 3rem;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+  padding-top: 4rem;
+  margin-top: 3.5rem;
+}
+.jumbotron img {
+  width: 200px;
+}
+
+.card {
+  padding: 1.4rem 1rem;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+  color: white;
+}
+
+.btn:hover {
+  background-color: #96beff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.resume {
+  background-color: #124076;
+}
+
+.card img {
+  height: 320px;
+  width: auto;
+}
+
+footer {
+  background-color: #124076;
+}
+
+/*# sourceMappingURL=style.css.map */
